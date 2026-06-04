@@ -11,6 +11,7 @@
     "abiononline.com"
   ],
   "blockedUrls": [
-    "https://discord.com/invite/albion"
+    "https://discord.com/invite/albion",
+    "https://discord.gg/albion"
     ]
 }
