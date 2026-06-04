@@ -1,12 +1,15 @@
 {
   "version": 1,
   "lastUpdate": "2026-06-04",
-  "domains": [
+  "blockedDomains": [
     "albionoline.com",
     "com-c.nl",
     "com-b.nl",
     "com-e.nl",
     "com-i.pw",
     "com-lv.de"
-  ]
+  ],
+    "blockedUrls": [
+    "https://discord.com/invite/albion"
+    ]
 }
