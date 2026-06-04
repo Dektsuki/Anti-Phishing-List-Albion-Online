@@ -1,13 +1,8 @@
 {
   "version": 1,
   "lastUpdate": "2026-06-04",
-  "blockedDomains": [
-    "albionoline.com"
-  ],
-  "blockedUrls": [
-    "forum.albionoline.com/"
-  ],
-  "notes": {
-    "albionoline.com": "Activo hasta 04/06/2026"
-  }
+  "domains": [
+    "dominio-phishing.com",
+    "otro-dominio-falso.net"
+  ]
 }
