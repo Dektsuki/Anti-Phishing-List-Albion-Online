@@ -1,6 +1,6 @@
-English:
+# English:
 
-# Albion Online Anti-Phishing List
+## Albion Online Anti-Phishing List
 
 A community-driven project dedicated to identifying and blocking domains and URLs associated with phishing campaigns targeting Albion Online players.
 
@@ -40,10 +40,7 @@ No list can guarantee complete protection against phishing attempts. Always veri
 
 Use this information at your own discretion.
 
-
-
-
-Español:
+# Español:
 
 # Albion Online Anti-Phishing List
 
