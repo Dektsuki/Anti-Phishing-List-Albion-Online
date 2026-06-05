@@ -1,0 +1,14 @@
+! Albion Online Anti-Phishing List
+! Maintainer: Eterve Nallo
+! Homepage: https://github.com/Dektsuki/Anti-Phishing-List-Albion-Online
+! Last Update: 2026-06-04
+
+||albionoline.com^
+||com-c.nl^
+||com-b.nl^
+||com-e.nl^
+||com-i.pw^
+||com-lv.de^
+||abiononline.com^
+
+||discord.com/invite/albion
