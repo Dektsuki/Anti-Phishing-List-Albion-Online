@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-06-05 (12:22pm GMT-3)",
+  "lastUpdate": "2026-06-06 (12:14pm GMT-3)",
   "blockedDomains": [
     "albionoline.com",
     "com-c.nl",
@@ -13,6 +13,7 @@
   "blockedUrls": [
     "https://discord.com/invite/albion",
     "https://discord.gg/albion",
-    "https://prostopizza.uz/"
+    "https://prostopizza.uz/",
+    "https://www.twitch.tv/ex373"
     ]
 }
