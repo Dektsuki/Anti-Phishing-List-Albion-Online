@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdate": "2026-06-06 (12:14pm GMT-3)",
+  "lastUpdate": "2026-06-28 (1:17pm GMT - 4)",
   "blockedDomains": [
     "albionoline.com",
     "com-c.nl",
@@ -8,7 +8,8 @@
     "com-e.nl",
     "com-i.pw",
     "com-lv.de",
-    "abiononline.com"
+    "abiononline.com",
+    "albion0nline.com"
   ],
   "blockedUrls": [
     "https://discord.com/invite/albion",
